@@ -2,6 +2,8 @@
 #
 # /usr/local/etc/rc.d/udpbroadcastrelay.sh
 # Script to run udpbroadcastrelay on startup
+# https://forum.opnsense.org/index.php?topic=16769.msg76482#msg76482
+# https://forum.netgate.com/topic/155698/how-can-i-get-this-udp-relay-package-for-casting-across-vlans/37
 
 #!/bin/sh
 rc_start() {
